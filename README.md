@@ -2,6 +2,8 @@
 
 Copyright 2018 Google Inc.
 
+Maintainer: [David Tomaschik](https://github.com/Matir/)
+
 This is not an official Google product.
 
 [OpenGrok](https://github.com/oracle/opengrok) is distributed by Oracle under
